@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "nombre": "Elevador de 2 Columnas",
+    "categoria": "elevadores",
+    "descripcion": "Elevador electro-hidraulico de 2 columnas para talleres. Capacidad de 4 toneladas. Sistema de seguridad con doble bloqueo. Acabado industrial de alta durabilidad.",
+    "imagen": "principal-1-2-600x600.jpg",
+    "caracteristicas": ["Capacidad: 4 TN", "Altura maxima: 2000mm", "Voltaje: 380V", "Sistema anti-caida"]
+  },
+  {
+    "id": 2,
+    "nombre": "Elevador de 4 Columnas para Alineación",
+    "categoria": "elevadores",
+    "descripcion": "Elevador de 4 columnas especialmente diseñado para alineación de dirección. Permite trabajar con vehículos de hasta 5.5 toneladas. Incluye plataformas con rodillos giratorios.",
+    "imagen": "principal-1-600x600.jpg",
+    "caracteristicas": ["Capacidad: 5.5 TN", "Plataformas moviles", "Ideal para alineacion", "Rodillos giratorios"]
+  },
+  {
+    "id": 3,
+    "nombre": "Elevador Doble Tijera",
+    "categoria": "elevadores",
+    "descripcion": "Elevador electro-hidraulico de doble tijera para inspeccion. Extra chato, ideal para espacios reducidos. Sistema sincronizado de ambas plataformas.",
+    "imagen": "principal-1-1-600x600.jpg",
+    "caracteristicas": ["Extra chato", "Sistema sincronizado", "Compacto", "1500mm altura"]
+  },
+  {
+    "id": 4,
+    "nombre": "Elevador Tijera de Alineación",
+    "categoria": "elevadores",
+    "descripcion": "Elevador tipo tijera de 4.5 y 5.5 toneladas para trabajos de alineación. Diseño robusto con plataformas extensibles.",
+    "imagen": "GC-4_5M4-GC-5_5M4-GAO.png",
+    "caracteristicas": ["4.5 - 5.5 TN", "Plataformas extensibles", "Para alineacion", "Hidraulico"]
+  },
+  {
+    "id": 5,
+    "nombre": "Rectificadora de Discos de Freno",
+    "categoria": "rectificadoras",
+    "descripcion": "Rectificadora profesional para discos y tambores de freno. Motor de alta potencia con velocidad variable. Precision industrial para talleres profesionales.",
+    "imagen": "principal-1-13-600x600.jpg",
+    "caracteristicas": ["Para discos y tambores", "Velocidad variable", "Motor 2HP", "Precision industrial"]
+  },
+  {
+    "id": 6,
+    "nombre": "Rectificadora de Discos con Medidor Digital",
+    "categoria": "rectificadoras",
+    "descripcion": "Rectificadora de ultima generacion con medidor digital de espesor. Permite trabajar con precision milimetrica. Display LED con lectura directa.",
+    "imagen": "principal-1-15-600x600.jpg",
+    "caracteristicas": ["Medidor digital", "Display LED", "Precision milimetrica", "Para discos y tambores"]
+  },
+  {
+    "id": 7,
+    "nombre": "Balanceadora Computarizada",
+    "categoria": "balanceadoras",
+    "descripcion": "Balanceadora computarizada con display digital. Tecnologia de balanceo estatica y dinamica. Programas para aluminio y hierro. Incluye elevador de rueda.",
+    "imagen": "principal-1-2-1-600x600.jpg",
+    "caracteristicas": ["Display digital", "Balanceo dinamico", "Programas ALU/FE", "Elevador incluido"]
+  },
+  {
+    "id": 8,
+    "nombre": "Balanceadora Semiautomatica con Pantalla Tactil",
+    "categoria": "balanceadoras",
+    "descripcion": "Balanceadora semiautomatica con pantalla tactil de 7 pulgadas. Entrada automatica de parametros. Laser para ubicacion de plomos.",
+    "imagen": "B600P-action-pic-2048x1153-1-1024x577.jpg",
+    "caracteristicas": ["Pantalla tactil", "Laser de posicion", "Entrada automatica", "19 programas"]
+  },
+  {
+    "id": 9,
+    "nombre": "Balanceadora de Servicio Pesado",
+    "categoria": "balanceadoras",
+    "descripcion": "Balanceadora profesional para cubiertas de camion y vehiculos pesados. Capacidad para ruedas de hasta 40 pulgadas. Display digital de gran tamano.",
+    "imagen": "9800-picture-in-the-middle-1024x576.jpg",
+    "caracteristicas": ["Hasta 40 pulgadas", "Para camiones", "Display digital", "Proteccion seguridad"]
+  },
+  {
+    "id": 10,
+    "nombre": "Desmontadora de Neumáticos Brazo Bandera",
+    "categoria": "desmontadoras",
+    "descripcion": "Desmontadora brazo bandera para neumeticos de auto y camioneta. Cabeza de montaje de acero con garantia. Eje hexagonal de 41mm para neumeticos duros.",
+    "imagen": "principal-1-6-600x600.jpg",
+    "caracteristicas": ["Brazo bandera", "Eje hexagonal 41mm", "Proteccion llanta", "Para auto/camioneta"]
+  },
+  {
+    "id": 11,
+    "nombre": "Desmontadora con Inclinacion Trasera",
+    "categoria": "desmontadoras",
+    "descripcion": "Desmontadora con sistema de inclinacion trasera para facil extraccion del neumetico. Ideal para neumeticos de perfil bajo y Run-Flat.",
+    "imagen": "T5300B-action-pic-1024x576.jpg",
+    "caracteristicas": ["Inclinacion trasera", "Perfil bajo", "Run-Flat", "Sistema automatizado"]
+  },
+  {
+    "id": 12,
+    "nombre": "Desmontadora de Trabajo Pesado",
+    "categoria": "desmontadoras",
+    "descripcion": "Desmontadora de alto rendimiento para uso intensivo. Diseñada para talleres con alto volumen de trabajo. Cabezal reforzado.",
+    "imagen": "principal-1-7-600x600.jpg",
+    "caracteristicas": ["Uso intensivo", "Alto rendimiento", "Cabezal reforzado", "2 anos garantia"]
+  }
+]
