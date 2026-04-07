@@ -40,9 +40,9 @@ export default function Home() {
           <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4">
             <div className="flex items-center gap-3">
               <img 
-                src="/logo.svg" 
+                src="/logo-completo.svg" 
                 alt="MaquinGom Pro" 
-                className="w-16 h-16 object-contain"
+                className="h-12 w-auto"
                 onError={(e) => {
                   (e.target as HTMLImageElement).style.display = 'none';
                 }}
