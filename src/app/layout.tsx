@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description: "Venta de elevadores, balanceadoras, desmontadoras y rectificadoras de discos. Confianza, servicio postventa y seriedad.",
   keywords: "elevadores, balanceadoras, desmontadoras, rectificadoras, maquinaria, gomería, taller, equipamiento industrial, Argentina",
   icons: {
-    icon: "/favicon.svg",
-    apple: "/isotipo.svg",
+    icon: "/favicon.ico",
+    apple: "/logos/isotipo-mqg-blanco-1000px.png",
   },
   openGraph: {
     title: "MaquinGom Pro | Equipamiento para Gomerías y Talleres",

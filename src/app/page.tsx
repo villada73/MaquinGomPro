@@ -39,13 +39,10 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 md:px-8 py-4">
           <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4">
             <div className="flex items-center gap-3">
-              <img 
-                src="/logo-completo.svg" 
-                alt="MaquinGom Pro" 
-                className="h-12 w-auto"
-                onError={(e) => {
-                  (e.target as HTMLImageElement).style.display = 'none';
-                }}
+              <img
+                src="/logos/logo-mqg-blanco-1000px.png"
+                alt="MaquinGom Pro"
+                className="h-16 w-auto"
               />
               <div>
                 <h1 className="text-3xl md:text-4xl font-black text-[#f59e0b] uppercase tracking-wider">
